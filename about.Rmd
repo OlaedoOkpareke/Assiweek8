@@ -9,3 +9,4 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 I enjoy swimming, coding, painting, and discussions on film/animation. 
+I also enjoy talking walks. 
