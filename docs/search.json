@@ -6,21 +6,21 @@
       "description": "This blog was created to give some more information about me.",
       "author": [],
       "contents": "\nI enjoy swimming, coding, painting, and discussions on film/animation. I also enjoy talking walks.\n\n\n\n",
-      "last_modified": "2022-03-05T21:43:18-05:00"
+      "last_modified": "2022-03-06T13:21:56-05:00"
     },
     {
       "path": "blog.html",
       "title": "My Blog",
       "author": [],
-      "contents": "\npostcards::create_postcard(file = “index.Rmd”, template = “trestles”)\n\n\n\n",
-      "last_modified": "2022-03-05T21:43:19-05:00"
+      "contents": "\ninstall.packages(“distill”) install.packages(“postcards”) postcards::create_postcard(file = “index.Rmd”, template = “trestles”)\n\n\n\n",
+      "last_modified": "2022-03-06T13:21:58-05:00"
     },
     {
       "path": "index.html",
       "title": "About Me",
       "author": [],
       "contents": "\n\n          \n      \n      Olaedo Okpareke's Blog\n      \n      \n      Home\n      About\n      Software\n      ☰\n      \n      \n      \n        \n          \n            \n              \n            \n              About Me\n            \n            \n              \n                \n                    \n                      \n                        LinkedIn\n                      \n                    \n                  \n                                    \n                    \n                      \n                        GitHub\n                      \n                    \n                  \n                                    \n                    \n                      \n                        Email\n                      \n                    \n                  \n                                  \n            \n          \n        \n        \n        \n          \n            \n            Bio\n            Olaedo Okpareke is a third year student at the university of Toronto. She is enrolled in the Economics and Statistics double major, with a minor in practical french. Her main area of interest is finance.\n            \n            \n            Education\n            The university of Toronto  | Toronto, Ontario\n            Bachelor of Science | September 2019 - May 2023\n            \n            \n            Experience\n            ARM Pensions | Investment management Intern | June to July 2021\n            KPMG Nigeria | Advisory | August to September 2021\n            \n          \n        \n      \n    \n\n    \n      \n        \n          \n            \n              \n            \n              About Me\n            \n            \n              \n                \n                                    \n                    \n                      LinkedIn\n                    \n                  \n                                    \n                    \n                      GitHub\n                    \n                  \n                                    \n                    \n                      Email\n                    \n                  \n                                  \n              \n            \n            \n              \n              Bio\n              Olaedo Okpareke is a third year student at the university of Toronto. She is enrolled in the Economics and Statistics double major, with a minor in practical french. Her main area of interest is finance.\n              \n              \n              Education\n              The university of Toronto  | Toronto, Ontario\n              Bachelor of Science | September 2019 - May 2023\n              \n              \n              Experience\n              ARM Pensions | Investment management Intern | June to July 2021\n              KPMG Nigeria | Advisory | August to September 2021\n              \n            \n        \n      \n    \n\n    \n    \n    ",
-      "last_modified": "2022-03-05T21:43:20-05:00"
+      "last_modified": "2022-03-06T13:21:58-05:00"
     },
     {
       "path": "Software.html",
@@ -29,7 +29,7 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\nMicrosoft Excel\nRstudio\nPython\n\n\n\n",
-      "last_modified": "2022-03-05T21:43:22-05:00"
+      "last_modified": "2022-03-06T13:22:00-05:00"
     }
   ],
   "collections": ["posts/posts.json"]

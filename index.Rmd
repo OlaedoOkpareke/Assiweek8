@@ -3,7 +3,7 @@ title: "About Me"
 image: "inanutshell-kurzgesagt-optimistic-nihilism-04.png"
 links:
   - label: LinkedIn
-    url: "linkedin.com/in/olaedo-okpareke-890171176"
+    url: "https://www.linkedin.com/in/olaedo-okpareke-890171176/"
   - label: GitHub
     url: "https://github.com/OlaedoOkpareke"
   - label: Email

@@ -3,4 +3,6 @@ title: "My Blog"
 site: distill::distill_website
 listing: posts
 ---
+install.packages("distill")
+install.packages("postcards")
 postcards::create_postcard(file = "index.Rmd", template = "trestles")
