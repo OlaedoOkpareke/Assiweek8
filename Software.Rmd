@@ -1,7 +1,7 @@
 ---
 title: "Software"
 description: |
-  Software that I am familiar with.
+  Software that Olaedo I am familiar with.
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---

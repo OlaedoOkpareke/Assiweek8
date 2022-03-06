@@ -3,7 +3,7 @@ title: "About Me"
 image: "inanutshell-kurzgesagt-optimistic-nihilism-04.png"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/olaedo-okpareke-890171176/"
+    url: "https://www.linkedin.com/in/olaedo-okpareke-890171176"
   - label: GitHub
     url: "https://github.com/OlaedoOkpareke"
   - label: Email
@@ -14,7 +14,7 @@ site: distill::distill_website
 ---
  
 ## Bio
-Olaedo Okpareke is a third year student at the university of Toronto. She is enrolled in the Economics and Statistics double major, with a minor in practical french. Her main area of interest is finance. 
+I am Olaedo Okpareke, a third year student at the university of Toronto. I am enrolled in the Economics and Statistics double major, with a minor in practical french. My main area of interest is finance. 
 
 ## Education
 
