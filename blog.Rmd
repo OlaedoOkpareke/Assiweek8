@@ -1,0 +1,6 @@
+---
+title: "My Blog"
+site: distill::distill_website
+listing: posts
+---
+postcards::create_postcard(file = "index.Rmd", template = "trestles")

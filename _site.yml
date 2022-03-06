@@ -1,0 +1,15 @@
+name: "Assiweek8"
+title: "Olaedo Okpareke's Blog"
+description: |
+  The blog where you can get to know a little bit more about me. 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Software"
+      href: Software.html  
+      
+output: distill::distill_article

@@ -1,0 +1,30 @@
+---
+title: "About Me"
+image: "inanutshell-kurzgesagt-optimistic-nihilism-04.png"
+links:
+  - label: LinkedIn
+    url: "linkedin.com/in/olaedo-okpareke-890171176"
+  - label: GitHub
+    url: "https://github.com/OlaedoOkpareke"
+  - label: Email
+    url: "mailto:olaedo.okpareke@mail.utoronto.ca"
+output:
+  postcards::trestles
+site: distill::distill_website  
+---
+ 
+## Bio
+Olaedo Okpareke is a third year student at the university of Toronto. She is enrolled in the Economics and Statistics double major, with a minor in practical french. Her main area of interest is finance. 
+
+## Education
+
+**The university of Toronto ** | Toronto, Ontario
+
+Bachelor of Science | September 2019 - May 2023
+
+
+## Experience
+
+**ARM Pensions** | Investment management Intern | June to July 2021
+
+**KPMG Nigeria** | Advisory | August to September 2021

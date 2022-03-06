@@ -1,0 +1,20 @@
+---
+title: "Software"
+description: |
+  Software that I am familiar with.
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+1. Microsoft Excel
+2. Rstudio
+3. Python 
+
+
+
+
+

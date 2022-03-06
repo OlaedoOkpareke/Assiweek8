@@ -1,0 +1,11 @@
+---
+title: "Olaedo Okpareke"
+description: |
+  This blog was created to give some more information about me.
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+I enjoy swimming, coding, painting, and discussions on film/animation. 
